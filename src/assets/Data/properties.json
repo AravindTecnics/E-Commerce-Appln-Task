@@ -1,0 +1,36 @@
+[{
+
+  "id":1,
+  "Name":"Birla-House",
+  "type":"House",
+  "price":1200000
+},
+{
+
+"id":2,
+"Name":"Urilla-House",
+"type":"House",
+"price":1200000
+},
+{
+
+"id":3,
+"Name":"Urilla-House",
+"type":"House",
+"price":1340000
+},
+{
+
+"id":4,
+"Name":"stella-House",
+"type":"House",
+"price":1400000
+},
+{
+
+"id":5,
+"Name":"Urilla-House",
+"type":"House",
+"price":1200000
+}
+]
